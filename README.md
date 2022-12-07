@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🐍 
 
 ![Snake animation](https://github.com/soberfest/soberfest/blob/output/github-contribution-grid-snake.svg)
 
